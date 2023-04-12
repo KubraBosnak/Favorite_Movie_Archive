@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\bin\Debug\Favorite_Movie_Archive.exe.config
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\bin\Debug\Favorite_Movie_Archive.exe
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\bin\Debug\Favorite_Movie_Archive.pdb
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.Form1.resources
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.exe
+C:\Users\Kübra\source\GitHub\Favorite_Movie_Archive\Favorite_Movie_Archive\Favorite_Movie_Archive\obj\Debug\Favorite_Movie_Archive.pdb
